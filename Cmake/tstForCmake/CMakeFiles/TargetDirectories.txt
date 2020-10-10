@@ -1,0 +1,3 @@
+/home/steven/code/tst/tstForCmake/CMakeFiles/rebuild_cache.dir
+/home/steven/code/tst/tstForCmake/CMakeFiles/hello.dir
+/home/steven/code/tst/tstForCmake/CMakeFiles/edit_cache.dir

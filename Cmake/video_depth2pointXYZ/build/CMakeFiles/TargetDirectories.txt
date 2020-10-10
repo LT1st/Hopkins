@@ -1,0 +1,3 @@
+/home/steven/code/tst/video_depth2pointXYZ/build/CMakeFiles/rebuild_cache.dir
+/home/steven/code/tst/video_depth2pointXYZ/build/CMakeFiles/Test.dir
+/home/steven/code/tst/video_depth2pointXYZ/build/CMakeFiles/edit_cache.dir

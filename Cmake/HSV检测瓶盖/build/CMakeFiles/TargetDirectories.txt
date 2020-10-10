@@ -1,0 +1,3 @@
+/home/steven/code/tst/检测瓶盖/build/CMakeFiles/rebuild_cache.dir
+/home/steven/code/tst/检测瓶盖/build/CMakeFiles/Test.dir
+/home/steven/code/tst/检测瓶盖/build/CMakeFiles/edit_cache.dir

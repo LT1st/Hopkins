@@ -1,0 +1,3 @@
+/home/steven/code/tst/Opencv-pointclould_Test_GetBored/build/CMakeFiles/rebuild_cache.dir
+/home/steven/code/tst/Opencv-pointclould_Test_GetBored/build/CMakeFiles/Test.dir
+/home/steven/code/tst/Opencv-pointclould_Test_GetBored/build/CMakeFiles/edit_cache.dir

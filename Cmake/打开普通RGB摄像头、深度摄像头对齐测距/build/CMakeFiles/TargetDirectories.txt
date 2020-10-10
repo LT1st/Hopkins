@@ -1,0 +1,3 @@
+/home/steven/code/tst/测试打开的摄像头/build/CMakeFiles/rebuild_cache.dir
+/home/steven/code/tst/测试打开的摄像头/build/CMakeFiles/Test.dir
+/home/steven/code/tst/测试打开的摄像头/build/CMakeFiles/edit_cache.dir
